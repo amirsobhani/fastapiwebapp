@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d8fc8b1f-942e-4cd2-a581-f694994749f9" />
+          <option name="name" value="pypi" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/db/pypi.sqlite" />
+            </array>
+          </option>
+          <option name="scriptOptions">
+            <map>
+              <entry key="QualifyWithSchema" value="ALWAYS" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
